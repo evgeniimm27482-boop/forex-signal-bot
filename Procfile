@@ -1,2 +1,2 @@
-web: python forex_signal_bot.py
+worker: python forex_signal_bot.py
 
